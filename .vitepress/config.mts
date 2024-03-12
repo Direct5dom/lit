@@ -22,7 +22,8 @@ export default defineConfig({
         items: [
           { text: '开始 & 自介', link: '/Project/Start' },
           { text: '远程工具箱 (Remote Toolbox)', link: '/Project/Remote-Toolbox' },
-          { text: '网关切换器 (Gateway Switcher)', link: '/Project/Gateway-Switcher' }
+          { text: '网关切换器 (Gateway Switcher)', link: '/Project/Gateway-Switcher' },
+          { text: '图片转 Base64 (Pic to Base64)', link: '/Project/Pic-to-Base64' }
         ]
       }
     ],
