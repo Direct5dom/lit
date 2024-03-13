@@ -10,7 +10,6 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Blog', link: 'https://blog.sixiaolong.win/' },
-      { text: 'Github', link: 'https://Github.sixiaolong.win/' },
       { text: 'Twitter', link: 'https://Twitter.sixiaolong.win/' },
       { text: 'BiliBili', link: 'https://BiliBili.sixiaolong.win/' },
       { text: 'Steam', link: 'https://Steam.sixiaolong.win/' },
