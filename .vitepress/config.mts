@@ -20,9 +20,10 @@ export default defineConfig({
         text: '个人项目',
         items: [
           { text: '开始 & 自介', link: '/Project/Start' },
-          { text: '远程工具箱 (Remote Toolbox)', link: '/Project/Remote-Toolbox' },
-          { text: '网关切换器 (Gateway Switcher)', link: '/Project/Gateway-Switcher' },
-          { text: '图片转 Base64 (Pic to Base64)', link: '/Project/Pic-to-Base64' }
+          { text: '远程工具箱', link: '/Project/Remote-Toolbox' },
+          { text: '网关切换器', link: '/Project/Gateway-Switcher' },
+          { text: '图片转 Base64', link: '/Project/Pic-to-Base64' },
+          { text: 'See My Server', link: '/Project/See-my-Server' }
         ]
       }
     ],
